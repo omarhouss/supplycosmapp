@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1001977395667",
+    "project_id": "supplycosm-2d192",
+    "storage_bucket": "supplycosm-2d192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001977395667:android:ca8fbe17183ee9b5de9726",
+        "android_client_info": {
+          "package_name": "com.example.supplycosm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001977395667-njscnqjaark9at7g0bbk4frhso10ljqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXI7I9jh5mZS4hKFuK2KKP2oDeHJ4ry0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001977395667-njscnqjaark9at7g0bbk4frhso10ljqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001977395667:android:80cd9b7640b0b064de9726",
+        "android_client_info": {
+          "package_name": "com.supplycosm.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001977395667-njscnqjaark9at7g0bbk4frhso10ljqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXI7I9jh5mZS4hKFuK2KKP2oDeHJ4ry0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001977395667-njscnqjaark9at7g0bbk4frhso10ljqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
